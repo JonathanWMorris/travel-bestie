@@ -1,0 +1,46 @@
+body {
+    background-color: #F7F0D8;
+    margin: 0; /* Remove default margin to ensure full coverage */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: open sans;
+    font-size: 36px;
+    font-weight: 500;
+    color: #65443A;
+    text-align: center;
+    z-index: 1000;
+}
+.spinner-grow {
+    padding: .1rem .1rem;
+    margin: 0.5rem; 
+}
+
+#one {
+    color: #6d5c57;
+}
+#two {
+    color: #8d6453;
+    animation-delay: 140ms;
+}
+#three {
+    color: #b47445;
+    animation-delay: 240ms;
+}
+#four {
+    color: #c88236;
+    animation-delay: 300ms;
+
+}
+#five {
+    color: #D7931D;
+    animation-delay: 320ms;
+
+}

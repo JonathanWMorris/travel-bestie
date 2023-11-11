@@ -1,0 +1,51 @@
+body {
+  background-color: #ffffff;
+  margin: 0; /* Remove default margin to ensure full coverage */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+.thumbnail {
+  border-radius: 10% 0% 0% 10%;
+  object-fit: cover;
+  width: 160px;
+}
+
+img:hover > .overlay {
+  background-color: #000;
+  opacity: 0.4;
+  border-radius: 10% 0% 0% 10%;
+}
+.subject1 {
+  color: #65443a;
+  font-family: 'Judson';
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  position: center;
+}
+.addy{
+  color: #8E8E8E;
+  font-family: 'Open Sans', open sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  margin:0%;
+  padding: 0%;
+}
+.description{
+  color: #8E8E8E;
+  font-family: 'Open Sans', open sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: small;
+  position: relative;
+  margin:0%;
+  padding: 0;
+}

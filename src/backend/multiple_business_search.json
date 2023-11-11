@@ -1,0 +1,177 @@
+[{
+    "businesses": [
+      {
+        "id": "f-m7-hyFzkf0HSEeQ2s-9A",
+        "alias": "fog-harbor-fish-house-san-francisco-2",
+        "name": "Chicken Tacos",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/by8Hh63BLPv_HUqRUdsp_w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fog-harbor-fish-house-san-francisco-2?adjust_creative=H_XJKr8jERDl7pj9hPFabw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=H_XJKr8jERDl7pj9hPFabw",
+        "review_count": 9898,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 4,
+        "coordinates": {
+          "latitude": 37.80889,
+          "longitude": -122.41025
+        },
+        "transactions": [
+          "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+          "address1": "41 Pier",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94133",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+            "39 Pier",
+            "San Francisco, CA 94133"
+          ]
+        },
+        "phone": "+14159692010",
+        "display_phone": "(415) 969-2010",
+        "distance": 4864.062506344107
+      }
+    ],
+    "total": 6900,
+    "region": {
+      "center": {
+        "longitude": -122.42820739746094,
+        "latitude": 37.767413217936834
+      }
+    }
+  },
+  {
+    "businesses": [
+      {
+        "id": "f-m7-hyFrererers-9A",
+        "alias": "fog-harbor-fish-house-san-francisco-2",
+        "name": "Fog Harbor Fish House",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/by8Hh63BLPv_HUqRUdsp_w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fog-harbor-fish-house-san-francisco-2?adjust_creative=H_XJKr8jERDl7pj9hPFabw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=H_XJKr8jERDl7pj9hPFabw",
+        "review_count": 9898,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 37.80889,
+          "longitude": -122.41025
+        },
+        "transactions": [
+          "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+          "address1": "39 Pier",
+          "address2": "Avenue",
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94133",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+            "39 Pier",
+            "San Francisco, CA 94133"
+          ]
+        },
+        "phone": "+14159692010",
+        "display_phone": "(415) 969-2010",
+        "distance": 4864.062506344107
+      }
+    ],
+    "total": 6900,
+    "region": {
+      "center": {
+        "longitude": -122.42820739746094,
+        "latitude": 37.767413217936834
+      }
+    }
+  },
+  {
+    "businesses": [
+      {
+        "id": "f-m7-hydsfsFsfghkfhgsl-9A",
+        "alias": "fog-harbor-fish-house-san-francisco-2",
+        "name": "Oyester Place",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/by8Hh63BLPv_HUqRUdsp_w/o.jpg",
+        "is_closed": false,
+        "url": "https://www.yelp.com/biz/fog-harbor-fish-house-san-francisco-2?adjust_creative=H_XJKr8jERDl7pj9hPFabw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=H_XJKr8jERDl7pj9hPFabw",
+        "review_count": 9898,
+        "categories": [
+          {
+            "alias": "seafood",
+            "title": "Seafood"
+          },
+          {
+            "alias": "wine_bars",
+            "title": "Wine Bars"
+          },
+          {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+          }
+        ],
+        "rating": 4.5,
+        "coordinates": {
+          "latitude": 37.80889,
+          "longitude": -122.41025
+        },
+        "transactions": [
+          "restaurant_reservation"
+        ],
+        "price": "$$",
+        "location": {
+          "address1": "39 Pier",
+          "address2": null,
+          "address3": "",
+          "city": "San Francisco",
+          "zip_code": "94133",
+          "country": "US",
+          "state": "CA",
+          "display_address": [
+            "39 Pier",
+            "San Francisco, CA 94133"
+          ]
+        },
+        "phone": "+14159692010",
+        "display_phone": "(415) 969-2010",
+        "distance": 4864.062506344107
+      }
+    ],
+    "total": 6900,
+    "region": {
+      "center": {
+        "longitude": -122.42820739746094,
+        "latitude": 37.767413217936834
+      }
+    }
+  }]

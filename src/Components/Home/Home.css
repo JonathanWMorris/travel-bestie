@@ -1,0 +1,107 @@
+.home{
+    width: 430px;
+    height: 932px;
+    flex-shrink: 0;
+}
+.content{
+    padding: 5%;
+    padding-left: 10%;
+}
+
+.heading{
+    color: #65443A;
+    font-family: Judson;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    position: relative;
+    top: 50%;
+}
+
+.appDescription{
+    color: #65443A;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 1%;
+    position: relative;
+    top: 200px;
+}
+
+
+.subject1{
+    color: #65443A;
+    font-family: Judson;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    position: relative;
+    top: 350px;
+}
+
+.enterCityName{
+    color: #8E8E8E;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #F7F0D8;
+    border-radius: 10px;
+    text-align: left;
+    align-items: center;
+    position: relative;
+    top: 355px;
+    height: 32px;
+    padding: 2%;
+}
+
+.enterHours{
+    color: #8E8E8E;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #F7F0D8;
+    border-radius: 10px;
+    text-align: left;
+    align-items: center;
+    position: relative;
+    top: 350px;
+    height: 32px;
+    padding: 2%;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    color: #65443A; /* Text color */
+    background-color: #F7F0D8; /* Background color */
+    border-radius: 20px; /* Border radius for rounded corners */
+    position: relative;
+    top: 400px;
+    transition: color 0.3s, fonts-style 0.3s;
+}
+
+.button:hover1 {
+    color: #8E8E8E; /* Hover text color */
+    font-style: italic;
+}
+
+.error{
+    position: relative;
+    top: 400px;
+}
